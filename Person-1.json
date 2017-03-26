@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Paul",
+    "Surname": "Beckett",
+    "foods": {
+      "likes": ["Garlic", "Spagetti"],
+      "Dislikes": ["Tofo", "Vegiburgers"]
+    }
+},
+
+  {
+    "name": "Thomas",
+    "Surname": "Beckett",
+    "foods": {
+      "likes": ["Milk", "Beetroot"],
+      "Dislikes": ["Eggs", "Rice"]
+    }
+},
+  {
+    "name": "Dale",
+    "Surname": "Beckett",
+    "foods": {
+      "likes": ["Sausages", "Dog Food"],
+      "Dislikes": ["Water", "Noodles"]
+    }
+}
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
